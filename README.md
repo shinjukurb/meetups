@@ -11,3 +11,5 @@ shinjuku.rb のミートアップ記録用のリポジトリです。
 
 * [doorkeeper](https://shinjukurb.doorkeeper.jp/)
 * [facebook group](https://www.facebook.com/groups/shinjuku.rb)
+* [idobata](https://idobata.io/organizations/shinjukurb/rooms/meetups/join_request/8b59b142-dc14-4878-9de6-934eb559b07b)
+* [gitter](https://gitter.im/shinjukurb/meetups?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
