@@ -1,15 +1,13 @@
 Meetups
 =======
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Shinjuku-rb/meetups?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-shinjuku.rb のミートアップ記録用のリポジトリです。
+shinjuku.rbのミートアップ記録用のリポジトリです。
+ハッシュタグは[#shinjukurb](https://twitter.com/search?q=%23shinjukurb)です。
 
 ## Links
 
 各SNS等へのリンクは以下の通りです。
 
-* [doorkeeper](https://shinjukurb.doorkeeper.jp/)
-* [facebook group](https://www.facebook.com/groups/shinjuku.rb)
-* [gitter](https://gitter.im/Shinjuku-rb/meetups)
-
+* [doorkeeper](https://shinjukurb.doorkeeper.jp/) …… 参加登録ページ
+* [Slack](http://shinjukurb-slackin.herokuapp.com/)
+* [Facebook Group](https://www.facebook.com/groups/shinjuku.rb)
