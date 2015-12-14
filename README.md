@@ -1,5 +1,6 @@
 Meetups
 =======
+[![Slack Status](https://shinjukurb-slackin.herokuapp.com/badge.svg)](https://shinjukurb-slackin.herokuapp.com)
 
 shinjuku.rbのミートアップ記録用のリポジトリです。
 ハッシュタグは[#shinjukurb](https://twitter.com/search?q=%23shinjukurb)です。
