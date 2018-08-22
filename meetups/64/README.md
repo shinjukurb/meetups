@@ -7,7 +7,7 @@ Shinjuku.rbは新宿周辺のRuby技術者たちが気軽に相談すること�
 
 過去の発表や雰囲気については[メモ](https://github.com/shinjukurb/meetups/tree/master/notes)より参照できます。
 
-# テーマ: fluentdと仲良くなる
+# テーマ: fluentd
 
 この時代、切っても切り離せぬlog shipper。
 
@@ -31,7 +31,7 @@ Shinjuku.rbは新宿周辺のRuby技術者たちが気軽に相談すること�
 LTをしていただける方を募集します!
 LT参加をご希望の方は、LTタイトルが決まりましたらconnpass feedへLTのタイトルをご記入下さい。
 
-1. TBD
+1. (仮) kubernatesにおけるnode logging agentどうする？ by [@threetreeslight](https://twitter.com/threetreeslight)
 
 また、Shinjuku.rbではディスカッションを大事にしています。
 そのため、トーク中にコレってどうしたらよさそう？などの質問が随時発生する点了承ください 🙏

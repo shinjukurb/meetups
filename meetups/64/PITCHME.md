@@ -34,7 +34,9 @@ Ruby技術者たちが LTをベースにディスカッションして知見を�
 
 ## LT(Talks)
 
-1. TBD
+1. fluentd 101
+1. abickyさんのブログにdata lostするケースを探る
+1. What is the best way to collect log on kubernates?
 
 ---
 
