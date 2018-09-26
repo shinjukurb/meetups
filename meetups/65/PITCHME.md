@@ -34,9 +34,9 @@ Ruby技術者たちが LTをベースにディスカッションして知見を�
 
 ## Speakers
 
-1. treby
-1. tomlla_92
-1. itkrt2y
+1. Vueのバージョンアップをしている際に得られた知見とVuexの使いどころ by treby006
+1. 段階的にフロントエンド開発 by tomlla_92
+1. (時間があったら枠!) by itkrt2y
 
 ---
 
