@@ -19,7 +19,7 @@ TOC
 - [Facebook Group](https://www.facebook.com/groups/shinjuku.rb)
 - introduction gitpitch
   - https://gitpitch.com/shinjukurb/meetups?p=meetups/<num>
-- [Slack](https://shinjukurb.slack.com) (join from [here](http://shinjukurb-slackin.herokuapp.com/) )
+- [Slack](https://shinjukurb.slack.com) (join from [here](https://join.slack.com/t/shinjukurb/shared_invite/enQtNDYzNjQxMjc4NDIxLTdmZGE2YjU4ZmJlZGY5MGFlOTE1MzA4ZWVlYzM4ZGM1NDEwYTdlZWQ4MzMwNWViMzBjNmVlOGRkNDBkNjQ3YjA) )
 - [twitter](https://twitter.com/hashtag/shinjukurb?f=tweets&vertical=default)
 
 Usage

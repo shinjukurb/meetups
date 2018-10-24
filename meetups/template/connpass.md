@@ -56,7 +56,7 @@ LTをしていただける方を募集します! LT参加をご希望の方は�
 
 ![](https://raw.githubusercontent.com/shinjukurb/meetups/master/assets/images/sponsers/repro-access-4.png)
 
-迷いましたら、[slack](http://shinjukurb-slackin.herokuapp.com/)もしくは、twitterにて #shinjukurb 付きのtweetでご連絡ください
+迷いましたら、[Slack](https://shinjukurb.slack.com)(join from [here](https://join.slack.com/t/shinjukurb/shared_invite/enQtNDYzNjQxMjc4NDIxLTdmZGE2YjU4ZmJlZGY5MGFlOTE1MzA4ZWVlYzM4ZGM1NDEwYTdlZWQ4MzMwNWViMzBjNmVlOGRkNDBkNjQ3YjA))もしくは、twitterにて #shinjukurb 付きのtweetでご連絡ください
 
 # スポンサー
 
@@ -67,4 +67,4 @@ LTをしていただける方を募集します! LT参加をご希望の方は�
 # 留意事項
 
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
-- 質問・疑問などは、[slack](http://shinjukurb-slackin.herokuapp.com/)もしくは、twitterにて #shinjukurb 付きのtweetでご連絡ください
+- 質問・疑問などは[Slack](https://shinjukurb.slack.com)(join from [here](https://join.slack.com/t/shinjukurb/shared_invite/enQtNDYzNjQxMjc4NDIxLTdmZGE2YjU4ZmJlZGY5MGFlOTE1MzA4ZWVlYzM4ZGM1NDEwYTdlZWQ4MzMwNWViMzBjNmVlOGRkNDBkNjQ3YjA))もしくは、twitterにて #shinjukurb 付きのtweetでご連絡ください
