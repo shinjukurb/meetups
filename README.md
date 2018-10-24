@@ -15,7 +15,18 @@ Hash tag: [#shinjukurb](https://twitter.com/hashtag/shinjukurb)
 TOC
 ---
 
-- [twitter](https://twitter.com/hashtag/shinjukurb?f=tweets&vertical=default)
 - [connpass](http://shinjukurb.connpass.com/)
-- [Slack](https://shinjukurb.slack.com) (join from [here](http://shinjukurb-slackin.herokuapp.com/) )
 - [Facebook Group](https://www.facebook.com/groups/shinjuku.rb)
+- introduction gitpitch
+  - https://gitpitch.com/shinjukurb/meetups?p=meetups/<num>
+- [Slack](https://shinjukurb.slack.com) (join from [here](http://shinjukurb-slackin.herokuapp.com/) )
+- [twitter](https://twitter.com/hashtag/shinjukurb?f=tweets&vertical=default)
+
+Usage
+---
+
+Generate Next Event from template
+
+```sh
+docker-compose run node node ./scripts/generateNextEvent.js
+```
