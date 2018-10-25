@@ -6,3 +6,9 @@ services:
       - ./:/repo
     ports:
       - 9000:9000
+
+  node:
+    image: node:latest
+    volumes:
+      - ./:/app
+    working_dir: /app
