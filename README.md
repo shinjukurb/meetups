@@ -15,6 +15,7 @@ Hash tag: [#shinjukurb](https://twitter.com/hashtag/shinjukurb)
 TOC
 ---
 
+- [introduction pitch](https://gitpitch.com/shinjukurb/meetups)
 - [connpass](http://shinjukurb.connpass.com/)
 - [Facebook Group](https://www.facebook.com/groups/shinjuku.rb)
 - introduction gitpitch
