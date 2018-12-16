@@ -4,3 +4,7 @@
   max-height: 300px;
   background: none;
 }
+
+.reveal .center {
+  text-align: center;
+}
