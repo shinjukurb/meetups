@@ -22,7 +22,7 @@
 
 Editorは以下を準備しておきます。
 
-- 素のvisual studio
+- 素のvisual studio code
 - 素のvi
 - 素のemacs
 
