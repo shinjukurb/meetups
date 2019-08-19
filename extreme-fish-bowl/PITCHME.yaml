@@ -3,7 +3,7 @@ transition : none
 
 # Look-and-Feel
 theme: white
-theme-override: /assets/css/PITCHME.css
+theme-override: /extreme-fish-bowl/PITCHME.css
 
 code-line-numbers : true
 mathjax : TeX-MML-AM_HTMLorMML-full
