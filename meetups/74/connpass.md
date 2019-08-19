@@ -37,6 +37,24 @@ Shinjuku.rb([Shinjuku.rbに行こう！](https://qiita.com/treby/items/c11da012f
 
 ![](https://github.com/shinjukurb/meetups/blob/master/assets/images/sponsers/repro/repro-2019-06-01-bar.png?raw=true)
 
+# FAQ
+
+## キーボードの配列は何ですか？
+
+キーボードは基本英字キーを準備しています。
+
+日本語キーをお使いになりたい方は日本語キーのキーボードをお持ちいただけると助かります。
+
+## エディタは何が準備されていますか？
+
+以下の4つを準備しています
+
+- emacs
+- vim
+- sublime
+- vscode
+
+
 # 留意事項
 
 - どなたでもblogなどにあげられるよう写真撮影を許可していますので、その点ご了承ください
