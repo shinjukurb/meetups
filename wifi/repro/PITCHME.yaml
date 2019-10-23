@@ -1,0 +1,15 @@
+# Layout
+layout : center-top
+transition : none
+
+# Look-and-Feel
+theme : black
+theme-override : /assets/css/PITCHME.css
+
+code-line-numbers : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts : true
+
+# security
+published : true
+stealth: jyH5Fs5dmnsYiEUZfO
